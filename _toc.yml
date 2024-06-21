@@ -10,6 +10,13 @@ parts:
   - caption: CEFI Goal
     chapters:
     - file: content/cefi_goal.md
+
+  - caption: Regional MOM6
+    chapters:
+    - file: content/model_doc/model_introduction.md
+      sections:
+      - file: content/model_doc/model_config/model_grid.md
+      - file: content/model_doc/model_config/model_variables.md
     
   - caption: Data Access
     chapters:
