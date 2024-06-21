@@ -2,7 +2,7 @@ Regional MOM6 introduction
 ===
 
 ##  What is regional MOM6
-The Modular Ocean Model (MOM) is a state-of-the-art numerical model for oceanic climate and climate change studies. It’s developed by the Geophysical Fluid Dynamics Laboratory (GFDL) under the National Oceanic and Atmospheric Administration (NOAA). The model is designed to be flexible and versatile, making it adaptable to a wide range of oceanic research topics. Here is a [great documentation](https://mom-ocean.github.io) talking about the differen version of MOM.
+The Modular Ocean Model (MOM) is a state-of-the-art numerical model for oceanic climate and climate change studies. It’s developed by the Geophysical Fluid Dynamics Laboratory (GFDL) under the National Oceanic and Atmospheric Administration (NOAA). The model is designed to be flexible and versatile, making it adaptable to a wide range of oceanic research topics. Here is a [great documentation](https://mom-ocean.github.io) talking about the different versions of MOM.
 >The Modular Ocean Model (MOM) describes the numerical ocean models originating from NOAA/GFDL. They are used to simulate ocean currents at both regional and global scales, enabling scientists to answer fundamental questions about the role of the ocean in the dynamics of the global climate.
 
 >MOM6 is the latest version of MOM. It blends the techniques of traditional solvers with a dynamic vertical coordinate. Development is led by an international consortium of scientists across several goverment agencies and academic institutions.
