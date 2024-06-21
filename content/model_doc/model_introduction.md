@@ -13,9 +13,9 @@ The Global MOM6, developed by NOAA/GFDL, serves as the foundation for this regio
 
 There are numerous online resources available for both MOM6 and its regional variant. These resources provide valuable information, tutorials, and documentation to assist users in effectively utilizing these models for their research needs.
 
-https://mom6.readthedocs.io/en/main/
-https://cefi-regional-mom6.readthedocs.io/en/latest/Introduction.html
-https://regional-mom6.readthedocs.io/en/latest/ 
+- https://mom6.readthedocs.io/en/main/
+- https://cefi-regional-mom6.readthedocs.io/en/latest/Introduction.html
+- https://regional-mom6.readthedocs.io/en/latest/ 
 
 ---
 
